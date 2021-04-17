@@ -44,13 +44,13 @@ To install for current user:
 
 .. code-block:: shell
 
-    pip3 install adafruit-circuitpython-displayio-switchround
+    pip3 install circuitpython-displayio-switchround
 
 To install system-wide (this may be required in some cases):
 
 .. code-block:: shell
 
-    sudo pip3 install adafruit-circuitpython-displayio-switchround
+    sudo pip3 install circuitpython-displayio-switchround
 
 To install in a virtual environment in your current project:
 
@@ -59,7 +59,7 @@ To install in a virtual environment in your current project:
     mkdir project-name && cd project-name
     python3 -m venv .env
     source .env/bin/activate
-    pip3 install adafruit-circuitpython-displayio-switchround
+    pip3 install circuitpython-displayio-switchround
 
 
 
