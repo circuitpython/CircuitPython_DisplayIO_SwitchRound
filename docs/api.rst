@@ -7,3 +7,6 @@
 .. automodule:: displayio_switchround
     :members:
     :member-order: bysource
+    :inherited-members:
+
+.. inheritance-diagram:: adafruit_displayio_layout.widgets.switch_round
