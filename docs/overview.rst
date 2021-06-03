@@ -149,7 +149,7 @@ alternate value. The following sections describe the construction of the `Switch
 widget, in the hopes that it will serve as a first example of the key properties and
 responses for widgets.
 
-.. inheritance-diagram:: adafruit_displayio_layout.widgets.switch_round
+.. inheritance-diagram:: displayio_switchround
 
 |
 

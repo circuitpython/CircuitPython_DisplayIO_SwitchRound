@@ -22,7 +22,7 @@ Implementation Notes
 Inheritance
 -----------
 
-.. inheritance-diagram:: adafruit_displayio_layout.widgets.switch_round
+.. inheritance-diagram:: displayio_switchround
 
 |
 
