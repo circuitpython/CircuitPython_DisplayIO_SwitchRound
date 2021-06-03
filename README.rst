@@ -2,8 +2,8 @@ Introduction
 ============
 
 
-.. image:: https://readthedocs.org/projects/circuitpython-displayio_switchround/badge/?version=latest
-    :target: https://circuitpython-displayio_switchround.readthedocs.io/
+.. image:: https://readthedocs.org/projects/circuitpython-displayio-switchround/badge/?version=latest
+    :target: https://circuitpython-displayio-switchround.readthedocs.io/
     :alt: Documentation Status
 
 
@@ -39,8 +39,8 @@ or individual libraries can be installed using
 Installing from PyPI
 =====================
 
-On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally `from
-PyPI <https://pypi.org/project/adafruit-circuitpython-displayio_switchround/>`_.
+On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally
+`from PyPI <https://pypi.org/project/circuitpython-displayio-switchround/>`_.
 To install for current user:
 
 .. code-block:: shell
