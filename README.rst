@@ -12,8 +12,8 @@ Introduction
     :alt: Discord
 
 
-.. image:: https://github.com/circuitpython/CircuitPython_DisplayIO_SwitchRound/workflows/Build%20CI/badge.svg
-    :target: https://github.com/circuitpython/CircuitPython_DisplayIO_SwitchRound/actions
+.. image:: https://github.com/circuitpython/CircuitPython_Org_DisplayIO_SwitchRound/workflows/Build%20CI/badge.svg
+    :target: https://github.com/circuitpython/CircuitPython_Org_DisplayIO_SwitchRound/actions
     :alt: Build Status
 
 
@@ -73,7 +73,7 @@ Contributing
 ============
 
 Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/circuitpython/CircuitPython_DisplayIO_SwitchRound/blob/main/CODE_OF_CONDUCT.md>`_
+<https://github.com/circuitpython/CircuitPython_Org_DisplayIO_SwitchRound/blob/main/CODE_OF_CONDUCT.md>`_
 before contributing to help this project stay welcoming.
 
 Documentation
