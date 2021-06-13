@@ -31,7 +31,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/x-rst",
     # The project's main homepage.
-    url="https://github.com/circuitpython/CircuitPython_DisplayIO_SwitchRound.git",
+    url="https://github.com/circuitpython/CircuitPython_Org_DisplayIO_SwitchRound.git",
     # Author details
     author="Kevin Matocha",
     author_email="",

@@ -37,7 +37,7 @@ Table of Contents
 .. toctree::
     :caption: Other Links
 
-    Download <https://github.com/circuitpython/CircuitPython_DisplayIO_SwitchRound/releases/latest>
+    Download <https://github.com/circuitpython/CircuitPython_Org_DisplayIO_SwitchRound/releases/latest>
     CircuitPython Reference Documentation <https://circuitpython.readthedocs.io>
     CircuitPython Support Forum <https://forums.adafruit.com/viewforum.php?f=60>
     Discord Chat <https://adafru.it/discord>
