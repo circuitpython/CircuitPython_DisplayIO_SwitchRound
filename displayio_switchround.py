@@ -139,10 +139,7 @@ class SwitchRound(Widget, Control):
         """"""  # Blocks documentation from super-class
 
         # initialize the Widget superclass (x, y, scale)
-        super().__init__(x=x, y=y, height=height, width=width, **kwargs, max_size=4)
-        # Define how many graphical elements will be in this group
-        # using "max_size=XX"
-        #
+        super().__init__(x=x, y=y, height=height, width=width, **kwargs)
         # Group elements for SwitchRound:
         #  0. switch_roundrect: The switch background
         #  1. switch_circle: The switch button

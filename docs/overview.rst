@@ -32,7 +32,7 @@ group to the display as in this example:
 .. code-block:: python
 
     my_switch = Switch(20, 30)  # create the switch at x=20, y=30
-    my_group = displayio.Group(max_size = 10)  # make a group that can hold 10 items
+    my_group = displayio.Group()  # make a group
     my_group.append(my_switch)  # Add my_switch to the group
 
     #
